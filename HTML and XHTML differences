@@ -1,1 +1,7 @@
-ML 
+HTML stands for HyperText Markup Language, while XHTML stands for Extensible Hyper Text Markup Language.
+HTML is less strict with rules, whereas XHTML is more strict and follows XML rules.
+In HTML, tags are not case-sensitive (you can write <TITLE> or <title>), but in XHTML, tags must be lowercase
+In HTML, some tags don't need closing (like <br>), but in XHTML, all tags must be closed (like <br />).
+In HTML, quotes around attribute values (like type=text) are optional, but in XHTML, quotes are required (type="text").
+HTML allows some errors in code, and the browser will still display the page, but XHTML requires well-formed code with no errors.
+XHTML is better for integration with XML tools and applications, while HTML is more browser-friendly and widely used.
